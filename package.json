@@ -2,6 +2,11 @@
     "name": "discord-bot",
     "version": "1.0.0",
     "main": "src/index.js",
-    "license": "MIT"
-  }
-  
+    "license": "MIT",
+    "description": "Discord bot coded from scratch.",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": ""
+}
