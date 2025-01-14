@@ -8,5 +8,9 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [],
-    "author": ""
+    "author": "",
+    "dependencies": {
+        "discord.js": "^14.17.3",
+        "dotenv": "^16.4.7"
+    }
 }
